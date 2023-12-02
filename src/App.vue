@@ -1,5 +1,6 @@
 <script setup>
 import IndiceComponent from "./components/Indice.vue";
+//comentario para probar el gir graph y las ramas
 </script>
 
 <template>
