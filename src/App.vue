@@ -5,6 +5,7 @@ import IndiceComponent from "./components/Indice.vue";
 
 <template>
   <div>
+    texto de prueba para ramas
     <h1>Proyectos</h1>
   </div>
 
